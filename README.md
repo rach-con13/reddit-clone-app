@@ -3,9 +3,17 @@
   </p>
 
 # Reddit Clone
++ Demo
 + Description
 + Features
 + Deploying Locally
+
+**Demo**
+---
+
+https://user-images.githubusercontent.com/79996490/128603054-80632238-b7af-436e-bf85-30c31cd904fe.mp4
+
+
 
 
 
@@ -21,7 +29,7 @@ This project contains some of the main features of the original reddit website i
   - Ability to create community posts
 
 **Deploying Locally**
- 1. ```git clone https://github.com/Fairy121/reddit-clone-app.git```
+ 1. ```git clone https://github.com/rach-con13/reddit-clone-app.git```
  2. ```cd reddit-clone-app && code . ```
  3. ```npm i --save ``` // to install npm packages
  4. Create ```env``` file in root directory. 
